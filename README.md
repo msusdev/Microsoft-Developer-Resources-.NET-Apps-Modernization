@@ -8,8 +8,6 @@ Learn with Microsoft through these programs to take your technical skills to the
 | --- | --- | --- |
 | [Architecting Cloud Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/) | Documentation | Site |
 | [Modernize .NET and Java Apps ](https://learn.microsoft.com/en-us/training/paths/modernize-net-java/) | Learning Path | Site |
-| [Microsoft Azure Virtual Training Day - Modernize Enterprise Applications](https://mktoevents.com/Microsoft+Event/394544/157-GQE-382) | 24APR-25APR | Training |
-| [Microsoft Azure Virtual Training Day - Modernize Enterprise Applications](https://mktoevents.com/Microsoft+Event/393811/157-GQE-382) | 25MAY-26MAY | Training |
 | [.NET App Modernization- hands-on-lab](https://mslabs.cloudguides.com/guides/.NET%20App%20Modernization) | Lab details | Click-through demo |
 ---
 
